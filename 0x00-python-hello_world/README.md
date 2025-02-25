@@ -93,3 +93,20 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x00-python-hello_world
 File: 5-print_string.py
+
+6)Complete this source code to print Welcome to ALX
+
+You can find the source code here: https://github.com/alx-tools/0x00.py/blob/master/6-concat.py
+You are not allowed to use any loops or conditional statements.
+You have to use the variables str1 and str2 in your new line of code
+Your program should be exactly 5 lines long
+guillaume@ubuntu:~/py/0x00$ ./6-concat.py
+Welcome to ALX!
+guillaume@ubuntu:~/py/0x00$ wc -l 6-concat.py
+5 6-concat.py
+guillaume@ubuntu:~/py/0x00$ 
+Repo:
+
+GitHub repository: alx-higher_level_programming
+Directory: 0x00-python-hello_world
+File: 6-concat.py
