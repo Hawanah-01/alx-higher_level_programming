@@ -74,3 +74,22 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x00-python-hello_world
 File: 4-print_float.py)
+
+5)Complete this source code in order to print 3 times a string stored in the variable str, followed by its first 9 characters.
+
+You can find the source code here: https://github.com/alx-tools/0x00.py/blob/master/5-print_string.py`
+The output of the program should be:
+3 times the value of str
+followed by a new line
+followed by the 9 first characters of str
+followed by a new line
+You are not allowed to use any loops or conditional statement
+Your program should be maximum 5 lines long
+guillaume@ubuntu:~/py/0x00$ ./5-print_string.py 
+ALX ALX ALX ALX
+guillaume@ubuntu:~/py/0x00$ 
+Repo:
+
+GitHub repository: alx-higher_level_programming
+Directory: 0x00-python-hello_world
+File: 5-print_string.py
